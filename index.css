@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("fundo.jpg");
+      height: 100%;
+      text-align: center;
+      background-size: cover;
+}
+#titulo {
+    color: black;
+    padding-top: 10%;
+    font-size: 60px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#subtitulo {
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#acao{
+    color: black;
+    border: 1px;color: black;
+    padding: 10px 20px 10px 20px;
+}
+.icone {
+    width: 100px;
+}
+
+#projeto {
+    background-color: #f7f7f7
+    padding: 20px;
+}
+#selecao {
+    padding: 20px;
+}
+#ecopontos {
+    background-color: #f7f7f7
+    padding: 20px;
+}
+.destaque {
+    background-color: #f7f7f7
+}
+.imgeco {
+    width: 30%;
+}
+.coluna{
+    float: left;
+    padding: 0 5%
+    position:relative
+    width: 40%
+}
+.justificado{
+    text-align: justify;
+}
+.centralizado{
+    text-align: center;
+}
+.colunaquatro{
+    float: left;
+    padding: 0 10%
+    position:relative
+    width: 60%
+}
+.colunatres{
+    float: left;
+    padding: 0 2%
+    position:relative
+    width:30%
+}
+footer{
+    background-color: aqua;
+    float:left
+}
